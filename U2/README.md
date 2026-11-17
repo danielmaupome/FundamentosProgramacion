@@ -87,17 +87,3 @@ Técnicas de alineación y maquetación de texto en consola usando `f-strings`:
 * **Alineación de columnas:** Definición de anchos fijos de campo con alineación a la izquierda (`:<15`), derecha (`:>10`) y centrado (`:^12`) para la creación de reportes estructurados.
 
 ---
-
-## 🚀 Requisitos e Instalación
-
-Para ejecutar cualquiera de estos scripts solo necesitas tener instalado **Python 3.6+**:
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/danielmaupome/Fundamentos-de-Programaci-n.git
-
-# Entrar al directorio del proyecto
-cd Fundamentos-de-Programaci-n
-
-# Ejecutar cualquiera de los ejemplos
-python "U2E1 - Salida en Python.py"
